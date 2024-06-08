@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="welcome">Welcome! to</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="loginText">already have account? Login here!</string>
+    <string name="login">Login</string>
+    <string name="registerText">Don\'t have an account yet? Register here!</string>
+    <string name="register">Register</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_story">Add Story</string>
+    <string name="show_maps">Show Maps</string>
+</resources>
